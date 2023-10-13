@@ -3,4 +3,4 @@ deploy:
     preserveProvider: true
     update: true
 name: SwaggerPetstore
-version: 1.0.0
+version: 1.0.1
